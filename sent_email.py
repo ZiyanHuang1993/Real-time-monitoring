@@ -11,9 +11,9 @@ from email.utils     import parseaddr, formataddr
 
 def sent_email(s):
     #email setting ----------------------------
-    my_sender = 'm15395429293@163.com'                  # the mailbox sending the mail
-    my_pass   = 'hzy201839'                  # smtp password of the mailbox
-    receiver  = ['249090696@qq.com']                 # the mailbox receiving the mail. more than one also works
+    my_sender = '******'                  # the mailbox sending the mail
+    my_pass   = '******'                  # smtp password of the mailbox
+    receiver  = ['******]                 # the mailbox receiving the mail. more than one also works
     #email setting ----------------------------
     
     #email content ----------------------------
